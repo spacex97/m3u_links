@@ -6,3 +6,6 @@ https://prod-sports-hin-cf.jiocinema.com/v1/master/ffdfae0224d40a4388960cf2d684c
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports Live",Ind vs NZ 2nd Test - Hindi - 2
 https://prod-sports-hin-cf.jiocinema.com/hls/live/2100320/uhd_akamai_ctv_avc_hin_indvsnz_251024/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bigg Boss Live",Bigg Boss Season 18 Live
+https://prod-ent-live-gm.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day02/master.m3u8
