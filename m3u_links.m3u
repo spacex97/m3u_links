@@ -1,2 +1,8 @@
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports Live",Ind vs NZ 2nd Test - Hindi
 https://prod-sports-hin-cf.jiocinema.com/hls/live/2100320/uhd_akamai_ctv_avc_hin_indvsnz_241024/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports Live",Ind vs NZ 2nd Test - Hindi - 1
+https://prod-sports-hin-cf.jiocinema.com/v1/master/ffdfae0224d40a4388960cf2d684c29838df6555/prod-ssai-emt-with-cache-moloco-dolby/hls/live/2100320/uhd_akamai_ctv_avc_hin_indvsnz_251024/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports Live",Ind vs NZ 2nd Test - Hindi - 2
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100320/uhd_akamai_ctv_avc_hin_indvsnz_251024/master.m3u8
