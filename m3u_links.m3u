@@ -1,8 +1,5 @@
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports Live",Ind vs NZ 3rd Test - Hindi
-https://prod-sports-hin-cf.jiocinema.com/hls/live/2100320/uhd_akamai_ctv_avc_hin_indvsnz_031124/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports Live",Ind vs NZ 3rd Test - Hindi (Test)
-https://prod-sportsp-hin-m.jiocinema.com/v1/master/ffdfae0224d40a4388960cf2d684c29838df6555/prod-ssai-emt-with-cache-moloco-dolby/hls/live/2100320/uhd_akamai_ctv_avc_hin_indvsnz_011124/master.m3u8?ads.adunit=TDSe9k3tmixVycbY&cdn=cf&hdnts=st=1730446810~exp=1730454010~acl=/v1/master/ffdfae0224d40a4388960cf2d684c29838df6555/prod-ssai-emt-with-cache-moloco-dolby/hls/live/2100320/uhd_akamai_ctv_avc_hin_indvsnz_011124/*~id=7ca2ca61025b437eb0663f17bd0a9052~data=rqId=5be5ed8b-fb90-48d9-88d1-18a77e3253f7~hmac=13b97a65c885a856fdf9abc9208ad9014bacde2474d682e366413fa75b02c6e0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports Live",Ban vs Afg
+https://dai.fancode.com/primary/110863_english_hls_2430ta-no/1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bigg Boss Live",Bigg Boss Season 18 Live
 https://prod-ent-live-gm.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day03/master.m3u8
