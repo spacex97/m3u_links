@@ -2,3 +2,6 @@
 #KODIPROP:inputstream.adaptive.license_key=7aa124253d518f18740c5bd932d581a3:1819c82fc27225f5e79ae189ddece0ea
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports Live",CT Match
 https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/xko28jj0cp/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",Test
+http://engca.xxxcdn.online:8978/8be1228d28529b5bbbbdbc3c20d17f085565b66b9332664a/index.m3u8?token=b2ede28bb1f35f31ae1d5a28edf50c81b0f53b3479e8abf58a0fa70810dafc0befeb2c5c3b47f8250d90c270e0c72f4e5fc540aca5888b8620db458cd97321868ff65ba478af-2b87d3048cbb30c1c93d956ce6b9b93d'
