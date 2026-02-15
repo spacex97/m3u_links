@@ -1,10 +1,4 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7aa124253d518f18740c5bd932d581a3:1819c82fc27225f5e79ae189ddece0ea
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports Live",CT Match
-https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/xko28jj0cp/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",Test
-http://engca.xxxcdn.online:8978/8be1228d28529b5bbbbdbc3c20d17f085565b66b9332664a/index.m3u8?token=b2ede28bb1f35f31ae1d5a28edf50c81b0f53b3479e8abf58a0fa70810dafc0befeb2c5c3b47f8250d90c270e0c72f4e5fc540aca5888b8620db458cd97321868ff65ba478af-2b87d3048cbb30c1c93d956ce6b9b93d'
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009520/1758993791706809_ACC25_Final_IND_vs_PAK_27sep_clean_live_landscape_thumb.jpg" group-title="Sports Live", India vs Pakistan - Final - 28 Sep 2025 [HIN] - Asia Cup 2025
-https://liveakmt-p.slivcdn.com/hls/live/2119921/cricacc12809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1759113161~acl=/*~id=89995439671127127653163235622260~hmac=ac1e795a96d07c35bf86755c9a9f9bd701c0ef1f769ff343b67d9ea102cf82fa
+#KODIPROP:inputstream.adaptive.license_key=531599a595f0a03ced73300beaec99b7:f5a77d391847790f46059cbb092d575b
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports Live",T20 WC Match
+https://ta.bia-cf.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/utvv87801b/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd
